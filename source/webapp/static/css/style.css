@@ -1,0 +1,16 @@
+.pre {
+    white-space: pre-wrap;
+}
+.main {
+    background: green;
+}
+.head {
+    background: #005cbf;
+}
+.head a {
+    background: lightgreen;
+    font-weight: bold;
+}
+body {
+    background: darkseagreen;
+}
